@@ -1,1 +1,1 @@
-# C-Projects
+Welcome! This repository contains a collection of C programming projects I worked on during my first semester of college. These were my first real steps into the world of coding, and they hold a special place in my journey as a developer.
